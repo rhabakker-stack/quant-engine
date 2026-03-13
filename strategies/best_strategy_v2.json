@@ -1,0 +1,392 @@
+{
+  "name": "v2_24",
+  "description": "MACD(8/21/5) | RSI(14,30-55) | EMA(50) | SL:2.0ATR TP:3.0ATR Trail:2.0ATR",
+  "parameters": {
+    "macd_fast": 8,
+    "macd_slow": 21,
+    "macd_signal": 5,
+    "rsi_period": 14,
+    "rsi_min": 30,
+    "rsi_max": 55,
+    "use_ema_filter": true,
+    "ema_trend": 50,
+    "atr_period": 14,
+    "sl_atr_mult": 2.0,
+    "tp_atr_mult": 3.0,
+    "trailing_atr_mult": 2.0,
+    "max_bars": 0,
+    "require_hist_positive": true
+  },
+  "performance": {
+    "profit_factor": 1.586,
+    "avg_np_over_mdd": 1.174,
+    "sortino_ratio": 2.673,
+    "win_rate": 55.15,
+    "num_trades": 136,
+    "largest_loser_pct_of_gross": 4.95,
+    "net_pnl_pct": 64.2,
+    "avg_drawdown_pct": 4.02
+  },
+  "per_dataset": [
+    {
+      "symbol": "AAVEUSDT",
+      "timeframe": "1h",
+      "return_pct": 5.83,
+      "dd_pct": 0.42,
+      "pf": 999,
+      "wr": 100.0,
+      "trades": 3
+    },
+    {
+      "symbol": "AAVEUSDT",
+      "timeframe": "2h",
+      "return_pct": -4.74,
+      "dd_pct": 5.57,
+      "pf": 0.067,
+      "wr": 33.33,
+      "trades": 3
+    },
+    {
+      "symbol": "AAVEUSDT",
+      "timeframe": "3h",
+      "return_pct": -1.22,
+      "dd_pct": 9.98,
+      "pf": 0.884,
+      "wr": 25.0,
+      "trades": 4
+    },
+    {
+      "symbol": "AAVEUSDT",
+      "timeframe": "4h",
+      "return_pct": -5.91,
+      "dd_pct": 6.37,
+      "pf": 0.0,
+      "wr": 0.0,
+      "trades": 2
+    },
+    {
+      "symbol": "ATOMUSDT",
+      "timeframe": "1h",
+      "return_pct": 0.29,
+      "dd_pct": 3.82,
+      "pf": 1.229,
+      "wr": 60.0,
+      "trades": 5
+    },
+    {
+      "symbol": "ATOMUSDT",
+      "timeframe": "2h",
+      "return_pct": 2.35,
+      "dd_pct": 0.6,
+      "pf": 999,
+      "wr": 100.0,
+      "trades": 1
+    },
+    {
+      "symbol": "ATOMUSDT",
+      "timeframe": "3h",
+      "return_pct": -3.64,
+      "dd_pct": 3.64,
+      "pf": 0.0,
+      "wr": 0.0,
+      "trades": 1
+    },
+    {
+      "symbol": "ATOMUSDT",
+      "timeframe": "4h",
+      "return_pct": 6.68,
+      "dd_pct": 0.0,
+      "pf": 999,
+      "wr": 100.0,
+      "trades": 1
+    },
+    {
+      "symbol": "AVAXUSDT",
+      "timeframe": "1h",
+      "return_pct": -0.7,
+      "dd_pct": 6.82,
+      "pf": 0.86,
+      "wr": 28.57,
+      "trades": 7
+    },
+    {
+      "symbol": "AVAXUSDT",
+      "timeframe": "2h",
+      "return_pct": -1.2,
+      "dd_pct": 2.07,
+      "pf": 0.0,
+      "wr": 0.0,
+      "trades": 2
+    },
+    {
+      "symbol": "AVAXUSDT",
+      "timeframe": "3h",
+      "return_pct": 6.28,
+      "dd_pct": 2.95,
+      "pf": 29.621,
+      "wr": 66.67,
+      "trades": 3
+    },
+    {
+      "symbol": "AVAXUSDT",
+      "timeframe": "4h",
+      "return_pct": 0.52,
+      "dd_pct": 3.12,
+      "pf": 2.57,
+      "wr": 50.0,
+      "trades": 2
+    },
+    {
+      "symbol": "BNBUSDT",
+      "timeframe": "1h",
+      "return_pct": -2.25,
+      "dd_pct": 5.26,
+      "pf": 0.524,
+      "wr": 20.0,
+      "trades": 5
+    },
+    {
+      "symbol": "BNBUSDT",
+      "timeframe": "2h",
+      "return_pct": -2.1,
+      "dd_pct": 3.36,
+      "pf": 0.216,
+      "wr": 33.33,
+      "trades": 3
+    },
+    {
+      "symbol": "BNBUSDT",
+      "timeframe": "3h",
+      "return_pct": 10.09,
+      "dd_pct": 1.35,
+      "pf": 999,
+      "wr": 100.0,
+      "trades": 2
+    },
+    {
+      "symbol": "BNBUSDT",
+      "timeframe": "4h",
+      "return_pct": 5.4,
+      "dd_pct": 1.24,
+      "pf": 999,
+      "wr": 100.0,
+      "trades": 2
+    },
+    {
+      "symbol": "BTCUSDT",
+      "timeframe": "2h",
+      "return_pct": 9.97,
+      "dd_pct": 1.63,
+      "pf": 32.86,
+      "wr": 83.33,
+      "trades": 6
+    },
+    {
+      "symbol": "BTCUSDT",
+      "timeframe": "3h",
+      "return_pct": 0.67,
+      "dd_pct": 3.17,
+      "pf": 999,
+      "wr": 100.0,
+      "trades": 1
+    },
+    {
+      "symbol": "BTCUSDT",
+      "timeframe": "4h",
+      "return_pct": 0.14,
+      "dd_pct": 0.0,
+      "pf": 999,
+      "wr": 100.0,
+      "trades": 1
+    },
+    {
+      "symbol": "BTCUSDT",
+      "timeframe": "1h",
+      "return_pct": 1.35,
+      "dd_pct": 4.37,
+      "pf": 1.524,
+      "wr": 60.0,
+      "trades": 5
+    },
+    {
+      "symbol": "ETHUSD",
+      "timeframe": "1h",
+      "return_pct": 1.26,
+      "dd_pct": 2.93,
+      "pf": 1.296,
+      "wr": 50.0,
+      "trades": 6
+    },
+    {
+      "symbol": "ETHUSD",
+      "timeframe": "2h",
+      "return_pct": 1.1,
+      "dd_pct": 1.44,
+      "pf": 999,
+      "wr": 100.0,
+      "trades": 2
+    },
+    {
+      "symbol": "ETHUSD",
+      "timeframe": "3h",
+      "return_pct": 1.7,
+      "dd_pct": 4.61,
+      "pf": 4.973,
+      "wr": 66.67,
+      "trades": 3
+    },
+    {
+      "symbol": "ETHUSD",
+      "timeframe": "4h",
+      "return_pct": 0.99,
+      "dd_pct": 2.53,
+      "pf": 999,
+      "wr": 100.0,
+      "trades": 1
+    },
+    {
+      "symbol": "INJUSDT",
+      "timeframe": "1h",
+      "return_pct": 6.24,
+      "dd_pct": 2.35,
+      "pf": 5.372,
+      "wr": 75.0,
+      "trades": 4
+    },
+    {
+      "symbol": "INJUSDT",
+      "timeframe": "2h",
+      "return_pct": -3.6,
+      "dd_pct": 6.59,
+      "pf": 0.141,
+      "wr": 50.0,
+      "trades": 2
+    },
+    {
+      "symbol": "INJUSDT",
+      "timeframe": "3h",
+      "return_pct": 1.45,
+      "dd_pct": 2.81,
+      "pf": 1.515,
+      "wr": 75.0,
+      "trades": 4
+    },
+    {
+      "symbol": "INJUSDT",
+      "timeframe": "4h",
+      "return_pct": 14.23,
+      "dd_pct": 4.58,
+      "pf": 4.108,
+      "wr": 66.67,
+      "trades": 3
+    },
+    {
+      "symbol": "LINKUSDT",
+      "timeframe": "1h",
+      "return_pct": 4.88,
+      "dd_pct": 4.16,
+      "pf": 2.156,
+      "wr": 57.14,
+      "trades": 7
+    },
+    {
+      "symbol": "LINKUSDT",
+      "timeframe": "2h",
+      "return_pct": 3.95,
+      "dd_pct": 4.88,
+      "pf": 2.464,
+      "wr": 60.0,
+      "trades": 5
+    },
+    {
+      "symbol": "LINKUSDT",
+      "timeframe": "3h",
+      "return_pct": 3.15,
+      "dd_pct": 8.82,
+      "pf": 1.666,
+      "wr": 20.0,
+      "trades": 5
+    },
+    {
+      "symbol": "LINKUSDT",
+      "timeframe": "4h",
+      "return_pct": -6.86,
+      "dd_pct": 7.47,
+      "pf": 0.0,
+      "wr": 0.0,
+      "trades": 4
+    },
+    {
+      "symbol": "NEARUSDT",
+      "timeframe": "1h",
+      "return_pct": -0.95,
+      "dd_pct": 3.47,
+      "pf": 0.476,
+      "wr": 75.0,
+      "trades": 4
+    },
+    {
+      "symbol": "NEARUSDT",
+      "timeframe": "2h",
+      "return_pct": -2.11,
+      "dd_pct": 7.08,
+      "pf": 0.587,
+      "wr": 66.67,
+      "trades": 3
+    },
+    {
+      "symbol": "NEARUSDT",
+      "timeframe": "3h",
+      "return_pct": 4.03,
+      "dd_pct": 4.03,
+      "pf": 2.181,
+      "wr": 75.0,
+      "trades": 4
+    },
+    {
+      "symbol": "NEARUSDT",
+      "timeframe": "4h",
+      "return_pct": 4.95,
+      "dd_pct": 4.96,
+      "pf": 2.075,
+      "wr": 75.0,
+      "trades": 4
+    },
+    {
+      "symbol": "SOLUSDT",
+      "timeframe": "1h",
+      "return_pct": -1.22,
+      "dd_pct": 3.41,
+      "pf": 0.304,
+      "wr": 50.0,
+      "trades": 4
+    },
+    {
+      "symbol": "SOLUSDT",
+      "timeframe": "2h",
+      "return_pct": 1.09,
+      "dd_pct": 6.19,
+      "pf": 1.173,
+      "wr": 66.67,
+      "trades": 6
+    },
+    {
+      "symbol": "SOLUSDT",
+      "timeframe": "3h",
+      "return_pct": 3.97,
+      "dd_pct": 6.1,
+      "pf": 1.78,
+      "wr": 50.0,
+      "trades": 4
+    },
+    {
+      "symbol": "SOLUSDT",
+      "timeframe": "4h",
+      "return_pct": -1.85,
+      "dd_pct": 6.76,
+      "pf": 0.0,
+      "wr": 0.0,
+      "trades": 2
+    }
+  ]
+}
