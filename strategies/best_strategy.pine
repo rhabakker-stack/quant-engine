@@ -1,0 +1,15 @@
+//@version=5
+strategy("MACD(8/21/5)", overlay=true, default_qty_type=strategy.percent_of_equity, default_qty_value=100)
+
+[macdLine, signalLine, histLine] = ta.macd(close, 8, 21, 5)
+
+buySignal = ta.crossover(macdLine, signalLine)
+sellSignal = ta.crossunder(macdLine, signalLine)
+
+if buySignal
+    strategy.entry("Long", strategy.long)
+if sellSignal
+    strategy.close("Long")
+
+plotshape(buySignal, title="Buy", location=location.belowbar, color=color.green, style=shape.triangleup, size=size.small)
+plotshape(sellSignal, title="Sell", location=location.abovebar, color=color.red, style=shape.triangledown, size=size.small)

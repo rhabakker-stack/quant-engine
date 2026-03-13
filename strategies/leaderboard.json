@@ -1,0 +1,992 @@
+[
+  {
+    "rank": 1,
+    "name": "MACD_8_21_5",
+    "description": "MACD(8/21/5)",
+    "avg_return_pct": 2.13,
+    "avg_max_drawdown_pct": 13.43,
+    "avg_win_rate_pct": 32.99,
+    "avg_trades": 19.7,
+    "score": 5.31
+  },
+  {
+    "rank": 2,
+    "name": "MACD_5_13_8",
+    "description": "MACD(5/13/8)",
+    "avg_return_pct": 2.13,
+    "avg_max_drawdown_pct": 13.79,
+    "avg_win_rate_pct": 32.13,
+    "avg_trades": 22.1,
+    "score": 4.87
+  },
+  {
+    "rank": 3,
+    "name": "MACD_12_26_9",
+    "description": "MACD(12/26/9)",
+    "avg_return_pct": -3.74,
+    "avg_max_drawdown_pct": 16.11,
+    "avg_win_rate_pct": 35.26,
+    "avg_trades": 13.1,
+    "score": -1.22
+  },
+  {
+    "rank": 4,
+    "name": "EMA_12_26_RSI_7_20_80",
+    "description": "EMA(12/26) + RSI(7, 20/80)",
+    "avg_return_pct": 2.86,
+    "avg_max_drawdown_pct": 11.71,
+    "avg_win_rate_pct": 62.5,
+    "avg_trades": 0.8,
+    "score": -34.24
+  },
+  {
+    "rank": 5,
+    "name": "EMA_20_50_RSI_7_20_80",
+    "description": "EMA(20/50) + RSI(7, 20/80)",
+    "avg_return_pct": 1.59,
+    "avg_max_drawdown_pct": 13.94,
+    "avg_win_rate_pct": 70.0,
+    "avg_trades": 1.0,
+    "score": -34.38
+  },
+  {
+    "rank": 6,
+    "name": "EMA_20_50_RSI_14_30_70",
+    "description": "EMA(20/50) + RSI(14, 30/70)",
+    "avg_return_pct": 1.84,
+    "avg_max_drawdown_pct": 11.59,
+    "avg_win_rate_pct": 62.5,
+    "avg_trades": 0.9,
+    "score": -35.21
+  },
+  {
+    "rank": 7,
+    "name": "EMA_8_34_RSI_7_20_80",
+    "description": "EMA(8/34) + RSI(7, 20/80)",
+    "avg_return_pct": 2.0,
+    "avg_max_drawdown_pct": 11.28,
+    "avg_win_rate_pct": 57.5,
+    "avg_trades": 0.8,
+    "score": -36.38
+  },
+  {
+    "rank": 8,
+    "name": "EMA_20_50_RSI_14_25_75",
+    "description": "EMA(20/50) + RSI(14, 25/75)",
+    "avg_return_pct": 0.69,
+    "avg_max_drawdown_pct": 8.28,
+    "avg_win_rate_pct": 47.5,
+    "avg_trades": 0.6,
+    "score": -39.21
+  },
+  {
+    "rank": 9,
+    "name": "RSI_21_30_70",
+    "description": "RSI(21, 30/70)",
+    "avg_return_pct": -0.32,
+    "avg_max_drawdown_pct": 20.02,
+    "avg_win_rate_pct": 63.46,
+    "avg_trades": 2.8,
+    "score": -41.3
+  },
+  {
+    "rank": 10,
+    "name": "EMA_12_26_RSI_14_30_70",
+    "description": "EMA(12/26) + RSI(14, 30/70)",
+    "avg_return_pct": 1.4,
+    "avg_max_drawdown_pct": 5.89,
+    "avg_win_rate_pct": 32.5,
+    "avg_trades": 0.4,
+    "score": -41.8
+  },
+  {
+    "rank": 11,
+    "name": "EMA_9_21_RSI_7_20_80",
+    "description": "EMA(9/21) + RSI(7, 20/80)",
+    "avg_return_pct": -0.51,
+    "avg_max_drawdown_pct": 8.87,
+    "avg_win_rate_pct": 40.0,
+    "avg_trades": 0.6,
+    "score": -42.95
+  },
+  {
+    "rank": 12,
+    "name": "RSI_14_25_75",
+    "description": "RSI(14, 25/75)",
+    "avg_return_pct": -1.92,
+    "avg_max_drawdown_pct": 20.66,
+    "avg_win_rate_pct": 60.67,
+    "avg_trades": 3.5,
+    "score": -44.05
+  },
+  {
+    "rank": 13,
+    "name": "RSI_7_20_80_MACD_8_21_5",
+    "description": "RSI(7, 20/80) + MACD(8/21/5)",
+    "avg_return_pct": -1.14,
+    "avg_max_drawdown_pct": 15.89,
+    "avg_win_rate_pct": 50.0,
+    "avg_trades": 1.0,
+    "score": -44.08
+  },
+  {
+    "rank": 14,
+    "name": "EMA_8_34_RSI_14_30_70",
+    "description": "EMA(8/34) + RSI(14, 30/70)",
+    "avg_return_pct": 0.57,
+    "avg_max_drawdown_pct": 6.2,
+    "avg_win_rate_pct": 27.5,
+    "avg_trades": 0.4,
+    "score": -44.28
+  },
+  {
+    "rank": 15,
+    "name": "RSI_14_30_70_MACD_5_13_8",
+    "description": "RSI(14, 30/70) + MACD(5/13/8)",
+    "avg_return_pct": -2.47,
+    "avg_max_drawdown_pct": 18.7,
+    "avg_win_rate_pct": 57.92,
+    "avg_trades": 1.8,
+    "score": -44.45
+  },
+  {
+    "rank": 16,
+    "name": "EMA_20_50_RSI_21_30_70",
+    "description": "EMA(20/50) + RSI(21, 30/70)",
+    "avg_return_pct": 0.75,
+    "avg_max_drawdown_pct": 3.74,
+    "avg_win_rate_pct": 20.0,
+    "avg_trades": 0.3,
+    "score": -45.12
+  },
+  {
+    "rank": 17,
+    "name": "RSI_14_30_70",
+    "description": "RSI(14, 30/70)",
+    "avg_return_pct": -2.95,
+    "avg_max_drawdown_pct": 19.84,
+    "avg_win_rate_pct": 58.92,
+    "avg_trades": 4.4,
+    "score": -45.19
+  },
+  {
+    "rank": 18,
+    "name": "RSI_14_30_70_MACD_12_26_9",
+    "description": "RSI(14, 30/70) + MACD(12/26/9)",
+    "avg_return_pct": -2.8,
+    "avg_max_drawdown_pct": 14.49,
+    "avg_win_rate_pct": 47.5,
+    "avg_trades": 0.9,
+    "score": -45.8
+  },
+  {
+    "rank": 19,
+    "name": "RSI_7_20_80_MACD_5_13_8",
+    "description": "RSI(7, 20/80) + MACD(5/13/8)",
+    "avg_return_pct": -2.75,
+    "avg_max_drawdown_pct": 17.51,
+    "avg_win_rate_pct": 48.75,
+    "avg_trades": 1.1,
+    "score": -46.88
+  },
+  {
+    "rank": 20,
+    "name": "RSI_14_25_75_MACD_12_26_9",
+    "description": "RSI(14, 25/75) + MACD(12/26/9)",
+    "avg_return_pct": -1.26,
+    "avg_max_drawdown_pct": 8.03,
+    "avg_win_rate_pct": 27.5,
+    "avg_trades": 0.5,
+    "score": -47.02
+  },
+  {
+    "rank": 21,
+    "name": "EMA_20_50_RSI_14_30_70_MACD_5_13_8",
+    "description": "EMA(20/50) + RSI(14, 30/70) + MACD(5/13/8)",
+    "avg_return_pct": -0.05,
+    "avg_max_drawdown_pct": 1.6,
+    "avg_win_rate_pct": 12.5,
+    "avg_trades": 0.2,
+    "score": -47.1
+  },
+  {
+    "rank": 22,
+    "name": "EMA_20_50_RSI_14_30_70_MACD_8_21_5",
+    "description": "EMA(20/50) + RSI(14, 30/70) + MACD(8/21/5)",
+    "avg_return_pct": 0.39,
+    "avg_max_drawdown_pct": 0.49,
+    "avg_win_rate_pct": 7.5,
+    "avg_trades": 0.1,
+    "score": -47.6
+  },
+  {
+    "rank": 23,
+    "name": "EMA_20_50_MACD_5_13_8",
+    "description": "EMA(20/50) + MACD(5/13/8)",
+    "avg_return_pct": -2.13,
+    "avg_max_drawdown_pct": 17.58,
+    "avg_win_rate_pct": 43.33,
+    "avg_trades": 1.4,
+    "score": -47.92
+  },
+  {
+    "rank": 24,
+    "name": "RSI_14_25_75_MACD_8_21_5",
+    "description": "RSI(14, 25/75) + MACD(8/21/5)",
+    "avg_return_pct": -3.32,
+    "avg_max_drawdown_pct": 16.57,
+    "avg_win_rate_pct": 45.0,
+    "avg_trades": 1.0,
+    "score": -48.1
+  },
+  {
+    "rank": 25,
+    "name": "RSI_21_30_70_MACD_5_13_8",
+    "description": "RSI(21, 30/70) + MACD(5/13/8)",
+    "avg_return_pct": -3.75,
+    "avg_max_drawdown_pct": 19.04,
+    "avg_win_rate_pct": 50.0,
+    "avg_trades": 1.3,
+    "score": -48.27
+  },
+  {
+    "rank": 26,
+    "name": "RSI_14_30_70_MACD_8_21_5",
+    "description": "RSI(14, 30/70) + MACD(8/21/5)",
+    "avg_return_pct": -3.52,
+    "avg_max_drawdown_pct": 18.15,
+    "avg_win_rate_pct": 47.5,
+    "avg_trades": 1.3,
+    "score": -48.35
+  },
+  {
+    "rank": 27,
+    "name": "EMA_20_50_RSI_14_30_70_MACD_12_26_9",
+    "description": "EMA(20/50) + RSI(14, 30/70) + MACD(12/26/9)",
+    "avg_return_pct": 0.22,
+    "avg_max_drawdown_pct": 0.42,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.0,
+    "score": -48.49
+  },
+  {
+    "rank": 28,
+    "name": "RSI_21_30_70_MACD_12_26_9",
+    "description": "RSI(21, 30/70) + MACD(12/26/9)",
+    "avg_return_pct": -3.17,
+    "avg_max_drawdown_pct": 13.22,
+    "avg_win_rate_pct": 37.5,
+    "avg_trades": 0.8,
+    "score": -48.53
+  },
+  {
+    "rank": 29,
+    "name": "RSI_14_25_75_MACD_5_13_8",
+    "description": "RSI(14, 25/75) + MACD(5/13/8)",
+    "avg_return_pct": -4.28,
+    "avg_max_drawdown_pct": 19.03,
+    "avg_win_rate_pct": 50.0,
+    "avg_trades": 1.1,
+    "score": -48.8
+  },
+  {
+    "rank": 30,
+    "name": "EMA_20_50_MACD_12_26_9",
+    "description": "EMA(20/50) + MACD(12/26/9)",
+    "avg_return_pct": -1.78,
+    "avg_max_drawdown_pct": 17.07,
+    "avg_win_rate_pct": 38.33,
+    "avg_trades": 1.4,
+    "score": -48.81
+  },
+  {
+    "rank": 31,
+    "name": "EMA_20_50_RSI_7_20_80_MACD_5_13_8",
+    "description": "EMA(20/50) + RSI(7, 20/80) + MACD(5/13/8)",
+    "avg_return_pct": -0.25,
+    "avg_max_drawdown_pct": 1.7,
+    "avg_win_rate_pct": 7.5,
+    "avg_trades": 0.1,
+    "score": -48.85
+  },
+  {
+    "rank": 32,
+    "name": "EMA_20_50_RSI_14_25_75_MACD_5_13_8",
+    "description": "EMA(20/50) + RSI(14, 25/75) + MACD(5/13/8)",
+    "avg_return_pct": -0.48,
+    "avg_max_drawdown_pct": 1.82,
+    "avg_win_rate_pct": 7.5,
+    "avg_trades": 0.1,
+    "score": -49.14
+  },
+  {
+    "rank": 33,
+    "name": "EMA_8_34_MACD_8_21_5",
+    "description": "EMA(8/34) + MACD(8/21/5)",
+    "avg_return_pct": -2.68,
+    "avg_max_drawdown_pct": 18.81,
+    "avg_win_rate_pct": 43.12,
+    "avg_trades": 1.9,
+    "score": -49.15
+  },
+  {
+    "rank": 34,
+    "name": "EMA_20_50_RSI_14_25_75_MACD_12_26_9",
+    "description": "EMA(20/50) + RSI(14, 25/75) + MACD(12/26/9)",
+    "avg_return_pct": -0.13,
+    "avg_max_drawdown_pct": 1.17,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.1,
+    "score": -49.22
+  },
+  {
+    "rank": 35,
+    "name": "EMA_20_50_RSI_14_25_75_MACD_8_21_5",
+    "description": "EMA(20/50) + RSI(14, 25/75) + MACD(8/21/5)",
+    "avg_return_pct": -0.13,
+    "avg_max_drawdown_pct": 1.17,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.1,
+    "score": -49.22
+  },
+  {
+    "rank": 36,
+    "name": "EMA_20_50_RSI_7_20_80_MACD_12_26_9",
+    "description": "EMA(20/50) + RSI(7, 20/80) + MACD(12/26/9)",
+    "avg_return_pct": -0.12,
+    "avg_max_drawdown_pct": 1.24,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.1,
+    "score": -49.24
+  },
+  {
+    "rank": 37,
+    "name": "EMA_20_50_RSI_7_20_80_MACD_8_21_5",
+    "description": "EMA(20/50) + RSI(7, 20/80) + MACD(8/21/5)",
+    "avg_return_pct": -0.12,
+    "avg_max_drawdown_pct": 1.24,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.1,
+    "score": -49.24
+  },
+  {
+    "rank": 38,
+    "name": "EMA_20_50_MACD_8_21_5",
+    "description": "EMA(20/50) + MACD(8/21/5)",
+    "avg_return_pct": -2.35,
+    "avg_max_drawdown_pct": 17.86,
+    "avg_win_rate_pct": 40.0,
+    "avg_trades": 1.3,
+    "score": -49.28
+  },
+  {
+    "rank": 39,
+    "name": "RSI_7_20_80",
+    "description": "RSI(7, 20/80)",
+    "avg_return_pct": -6.12,
+    "avg_max_drawdown_pct": 21.6,
+    "avg_win_rate_pct": 58.65,
+    "avg_trades": 5.5,
+    "score": -49.33
+  },
+  {
+    "rank": 40,
+    "name": "EMA_8_34_MACD_5_13_8",
+    "description": "EMA(8/34) + MACD(5/13/8)",
+    "avg_return_pct": -2.9,
+    "avg_max_drawdown_pct": 18.92,
+    "avg_win_rate_pct": 43.13,
+    "avg_trades": 2.1,
+    "score": -49.42
+  },
+  {
+    "rank": 41,
+    "name": "RSI_7_20_80_MACD_12_26_9",
+    "description": "RSI(7, 20/80) + MACD(12/26/9)",
+    "avg_return_pct": -3.87,
+    "avg_max_drawdown_pct": 14.0,
+    "avg_win_rate_pct": 37.5,
+    "avg_trades": 0.8,
+    "score": -49.62
+  },
+  {
+    "rank": 42,
+    "name": "EMA_9_21_RSI_14_30_70",
+    "description": "EMA(9/21) + RSI(14, 30/70)",
+    "avg_return_pct": -0.61,
+    "avg_max_drawdown_pct": 2.87,
+    "avg_win_rate_pct": 7.5,
+    "avg_trades": 0.2,
+    "score": -49.79
+  },
+  {
+    "rank": 43,
+    "name": "EMA_8_34_MACD_12_26_9",
+    "description": "EMA(8/34) + MACD(12/26/9)",
+    "avg_return_pct": -2.34,
+    "avg_max_drawdown_pct": 18.52,
+    "avg_win_rate_pct": 39.04,
+    "avg_trades": 1.9,
+    "score": -49.89
+  },
+  {
+    "rank": 44,
+    "name": "EMA_12_26_RSI_14_30_70_MACD_12_26_9",
+    "description": "EMA(12/26) + RSI(14, 30/70) + MACD(12/26/9)",
+    "avg_return_pct": -0.46,
+    "avg_max_drawdown_pct": 1.86,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.1,
+    "score": -49.89
+  },
+  {
+    "rank": 45,
+    "name": "EMA_12_26_RSI_14_30_70_MACD_8_21_5",
+    "description": "EMA(12/26) + RSI(14, 30/70) + MACD(8/21/5)",
+    "avg_return_pct": -0.46,
+    "avg_max_drawdown_pct": 1.86,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.1,
+    "score": -49.89
+  },
+  {
+    "rank": 46,
+    "name": "EMA_12_26_RSI_14_30_70_MACD_5_13_8",
+    "description": "EMA(12/26) + RSI(14, 30/70) + MACD(5/13/8)",
+    "avg_return_pct": -0.46,
+    "avg_max_drawdown_pct": 1.86,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.1,
+    "score": -49.89
+  },
+  {
+    "rank": 47,
+    "name": "EMA_20_50_RSI_21_30_70_MACD_12_26_9",
+    "description": "EMA(20/50) + RSI(21, 30/70) + MACD(12/26/9)",
+    "avg_return_pct": -0.17,
+    "avg_max_drawdown_pct": 0.96,
+    "avg_win_rate_pct": 2.5,
+    "avg_trades": 0.0,
+    "score": -49.9
+  },
+  {
+    "rank": 48,
+    "name": "EMA_20_50_RSI_21_30_70_MACD_8_21_5",
+    "description": "EMA(20/50) + RSI(21, 30/70) + MACD(8/21/5)",
+    "avg_return_pct": -0.17,
+    "avg_max_drawdown_pct": 0.96,
+    "avg_win_rate_pct": 2.5,
+    "avg_trades": 0.0,
+    "score": -49.9
+  },
+  {
+    "rank": 49,
+    "name": "EMA_20_50_RSI_21_30_70_MACD_5_13_8",
+    "description": "EMA(20/50) + RSI(21, 30/70) + MACD(5/13/8)",
+    "avg_return_pct": -0.17,
+    "avg_max_drawdown_pct": 0.96,
+    "avg_win_rate_pct": 2.5,
+    "avg_trades": 0.0,
+    "score": -49.9
+  },
+  {
+    "rank": 50,
+    "name": "EMA_12_26_MACD_8_21_5",
+    "description": "EMA(12/26) + MACD(8/21/5)",
+    "avg_return_pct": -2.98,
+    "avg_max_drawdown_pct": 18.97,
+    "avg_win_rate_pct": 40.21,
+    "avg_trades": 1.9,
+    "score": -50.41
+  },
+  {
+    "rank": 51,
+    "name": "EMA_12_26_RSI_14_25_75_MACD_12_26_9",
+    "description": "EMA(12/26) + RSI(14, 25/75) + MACD(12/26/9)",
+    "avg_return_pct": -0.81,
+    "avg_max_drawdown_pct": 2.61,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.1,
+    "score": -50.62
+  },
+  {
+    "rank": 52,
+    "name": "EMA_12_26_RSI_14_25_75_MACD_8_21_5",
+    "description": "EMA(12/26) + RSI(14, 25/75) + MACD(8/21/5)",
+    "avg_return_pct": -0.81,
+    "avg_max_drawdown_pct": 2.61,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.1,
+    "score": -50.62
+  },
+  {
+    "rank": 53,
+    "name": "EMA_12_26_RSI_14_25_75_MACD_5_13_8",
+    "description": "EMA(12/26) + RSI(14, 25/75) + MACD(5/13/8)",
+    "avg_return_pct": -0.81,
+    "avg_max_drawdown_pct": 2.61,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.1,
+    "score": -50.62
+  },
+  {
+    "rank": 54,
+    "name": "EMA_12_26_RSI_7_20_80_MACD_12_26_9",
+    "description": "EMA(12/26) + RSI(7, 20/80) + MACD(12/26/9)",
+    "avg_return_pct": -0.8,
+    "avg_max_drawdown_pct": 2.68,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.1,
+    "score": -50.64
+  },
+  {
+    "rank": 55,
+    "name": "EMA_12_26_RSI_7_20_80_MACD_8_21_5",
+    "description": "EMA(12/26) + RSI(7, 20/80) + MACD(8/21/5)",
+    "avg_return_pct": -0.8,
+    "avg_max_drawdown_pct": 2.68,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.1,
+    "score": -50.64
+  },
+  {
+    "rank": 56,
+    "name": "EMA_12_26_RSI_7_20_80_MACD_5_13_8",
+    "description": "EMA(12/26) + RSI(7, 20/80) + MACD(5/13/8)",
+    "avg_return_pct": -0.8,
+    "avg_max_drawdown_pct": 2.68,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.1,
+    "score": -50.64
+  },
+  {
+    "rank": 57,
+    "name": "EMA_9_21_RSI_14_30_70_MACD_12_26_9",
+    "description": "EMA(9/21) + RSI(14, 30/70) + MACD(12/26/9)",
+    "avg_return_pct": -0.95,
+    "avg_max_drawdown_pct": 2.55,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.1,
+    "score": -50.72
+  },
+  {
+    "rank": 58,
+    "name": "EMA_9_21_RSI_14_30_70_MACD_8_21_5",
+    "description": "EMA(9/21) + RSI(14, 30/70) + MACD(8/21/5)",
+    "avg_return_pct": -0.95,
+    "avg_max_drawdown_pct": 2.55,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.1,
+    "score": -50.72
+  },
+  {
+    "rank": 59,
+    "name": "EMA_9_21_RSI_14_30_70_MACD_5_13_8",
+    "description": "EMA(9/21) + RSI(14, 30/70) + MACD(5/13/8)",
+    "avg_return_pct": -0.95,
+    "avg_max_drawdown_pct": 2.55,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.1,
+    "score": -50.72
+  },
+  {
+    "rank": 60,
+    "name": "EMA_8_34_RSI_14_30_70_MACD_12_26_9",
+    "description": "EMA(8/34) + RSI(14, 30/70) + MACD(12/26/9)",
+    "avg_return_pct": -0.95,
+    "avg_max_drawdown_pct": 2.55,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.1,
+    "score": -50.72
+  },
+  {
+    "rank": 61,
+    "name": "EMA_8_34_RSI_14_30_70_MACD_8_21_5",
+    "description": "EMA(8/34) + RSI(14, 30/70) + MACD(8/21/5)",
+    "avg_return_pct": -0.95,
+    "avg_max_drawdown_pct": 2.55,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.1,
+    "score": -50.72
+  },
+  {
+    "rank": 62,
+    "name": "EMA_8_34_RSI_14_30_70_MACD_5_13_8",
+    "description": "EMA(8/34) + RSI(14, 30/70) + MACD(5/13/8)",
+    "avg_return_pct": -0.95,
+    "avg_max_drawdown_pct": 2.55,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.1,
+    "score": -50.72
+  },
+  {
+    "rank": 63,
+    "name": "EMA_12_26_MACD_5_13_8",
+    "description": "EMA(12/26) + MACD(5/13/8)",
+    "avg_return_pct": -3.56,
+    "avg_max_drawdown_pct": 19.68,
+    "avg_win_rate_pct": 41.04,
+    "avg_trades": 1.8,
+    "score": -51.08
+  },
+  {
+    "rank": 64,
+    "name": "EMA_9_21_RSI_14_25_75",
+    "description": "EMA(9/21) + RSI(14, 25/75)",
+    "avg_return_pct": -1.01,
+    "avg_max_drawdown_pct": 3.3,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.2,
+    "score": -51.15
+  },
+  {
+    "rank": 65,
+    "name": "EMA_12_26_RSI_21_30_70",
+    "description": "EMA(12/26) + RSI(21, 30/70)",
+    "avg_return_pct": -0.85,
+    "avg_max_drawdown_pct": 2.4,
+    "avg_win_rate_pct": 2.5,
+    "avg_trades": 0.1,
+    "score": -51.3
+  },
+  {
+    "rank": 66,
+    "name": "EMA_12_26_RSI_21_30_70_MACD_12_26_9",
+    "description": "EMA(12/26) + RSI(21, 30/70) + MACD(12/26/9)",
+    "avg_return_pct": -0.85,
+    "avg_max_drawdown_pct": 2.4,
+    "avg_win_rate_pct": 2.5,
+    "avg_trades": 0.1,
+    "score": -51.3
+  },
+  {
+    "rank": 67,
+    "name": "EMA_12_26_RSI_21_30_70_MACD_8_21_5",
+    "description": "EMA(12/26) + RSI(21, 30/70) + MACD(8/21/5)",
+    "avg_return_pct": -0.85,
+    "avg_max_drawdown_pct": 2.4,
+    "avg_win_rate_pct": 2.5,
+    "avg_trades": 0.1,
+    "score": -51.3
+  },
+  {
+    "rank": 68,
+    "name": "EMA_12_26_RSI_21_30_70_MACD_5_13_8",
+    "description": "EMA(12/26) + RSI(21, 30/70) + MACD(5/13/8)",
+    "avg_return_pct": -0.85,
+    "avg_max_drawdown_pct": 2.4,
+    "avg_win_rate_pct": 2.5,
+    "avg_trades": 0.1,
+    "score": -51.3
+  },
+  {
+    "rank": 69,
+    "name": "EMA_12_26_RSI_14_25_75",
+    "description": "EMA(12/26) + RSI(14, 25/75)",
+    "avg_return_pct": -1.06,
+    "avg_max_drawdown_pct": 3.49,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.2,
+    "score": -51.31
+  },
+  {
+    "rank": 70,
+    "name": "RSI_21_30_70_MACD_8_21_5",
+    "description": "RSI(21, 30/70) + MACD(8/21/5)",
+    "avg_return_pct": -4.89,
+    "avg_max_drawdown_pct": 17.88,
+    "avg_win_rate_pct": 41.25,
+    "avg_trades": 1.2,
+    "score": -51.45
+  },
+  {
+    "rank": 71,
+    "name": "EMA_9_21_RSI_14_25_75_MACD_12_26_9",
+    "description": "EMA(9/21) + RSI(14, 25/75) + MACD(12/26/9)",
+    "avg_return_pct": -1.3,
+    "avg_max_drawdown_pct": 3.3,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.2,
+    "score": -51.45
+  },
+  {
+    "rank": 72,
+    "name": "EMA_9_21_RSI_14_25_75_MACD_8_21_5",
+    "description": "EMA(9/21) + RSI(14, 25/75) + MACD(8/21/5)",
+    "avg_return_pct": -1.3,
+    "avg_max_drawdown_pct": 3.3,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.2,
+    "score": -51.45
+  },
+  {
+    "rank": 73,
+    "name": "EMA_9_21_RSI_14_25_75_MACD_5_13_8",
+    "description": "EMA(9/21) + RSI(14, 25/75) + MACD(5/13/8)",
+    "avg_return_pct": -1.3,
+    "avg_max_drawdown_pct": 3.3,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.2,
+    "score": -51.45
+  },
+  {
+    "rank": 74,
+    "name": "EMA_8_34_RSI_14_25_75_MACD_12_26_9",
+    "description": "EMA(8/34) + RSI(14, 25/75) + MACD(12/26/9)",
+    "avg_return_pct": -1.3,
+    "avg_max_drawdown_pct": 3.3,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.2,
+    "score": -51.45
+  },
+  {
+    "rank": 75,
+    "name": "EMA_8_34_RSI_14_25_75_MACD_8_21_5",
+    "description": "EMA(8/34) + RSI(14, 25/75) + MACD(8/21/5)",
+    "avg_return_pct": -1.3,
+    "avg_max_drawdown_pct": 3.3,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.2,
+    "score": -51.45
+  },
+  {
+    "rank": 76,
+    "name": "EMA_8_34_RSI_14_25_75_MACD_5_13_8",
+    "description": "EMA(8/34) + RSI(14, 25/75) + MACD(5/13/8)",
+    "avg_return_pct": -1.3,
+    "avg_max_drawdown_pct": 3.3,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.2,
+    "score": -51.45
+  },
+  {
+    "rank": 77,
+    "name": "EMA_9_21_RSI_7_20_80_MACD_12_26_9",
+    "description": "EMA(9/21) + RSI(7, 20/80) + MACD(12/26/9)",
+    "avg_return_pct": -1.29,
+    "avg_max_drawdown_pct": 3.37,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.2,
+    "score": -51.47
+  },
+  {
+    "rank": 78,
+    "name": "EMA_9_21_RSI_7_20_80_MACD_8_21_5",
+    "description": "EMA(9/21) + RSI(7, 20/80) + MACD(8/21/5)",
+    "avg_return_pct": -1.29,
+    "avg_max_drawdown_pct": 3.37,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.2,
+    "score": -51.47
+  },
+  {
+    "rank": 79,
+    "name": "EMA_9_21_RSI_7_20_80_MACD_5_13_8",
+    "description": "EMA(9/21) + RSI(7, 20/80) + MACD(5/13/8)",
+    "avg_return_pct": -1.29,
+    "avg_max_drawdown_pct": 3.37,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.2,
+    "score": -51.47
+  },
+  {
+    "rank": 80,
+    "name": "EMA_8_34_RSI_7_20_80_MACD_12_26_9",
+    "description": "EMA(8/34) + RSI(7, 20/80) + MACD(12/26/9)",
+    "avg_return_pct": -1.29,
+    "avg_max_drawdown_pct": 3.37,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.2,
+    "score": -51.47
+  },
+  {
+    "rank": 81,
+    "name": "EMA_8_34_RSI_7_20_80_MACD_8_21_5",
+    "description": "EMA(8/34) + RSI(7, 20/80) + MACD(8/21/5)",
+    "avg_return_pct": -1.29,
+    "avg_max_drawdown_pct": 3.37,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.2,
+    "score": -51.47
+  },
+  {
+    "rank": 82,
+    "name": "EMA_8_34_RSI_7_20_80_MACD_5_13_8",
+    "description": "EMA(8/34) + RSI(7, 20/80) + MACD(5/13/8)",
+    "avg_return_pct": -1.29,
+    "avg_max_drawdown_pct": 3.37,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.2,
+    "score": -51.47
+  },
+  {
+    "rank": 83,
+    "name": "EMA_8_34_RSI_14_25_75",
+    "description": "EMA(8/34) + RSI(14, 25/75)",
+    "avg_return_pct": -1.24,
+    "avg_max_drawdown_pct": 3.69,
+    "avg_win_rate_pct": 5.0,
+    "avg_trades": 0.2,
+    "score": -51.58
+  },
+  {
+    "rank": 84,
+    "name": "EMA_9_21_RSI_21_30_70",
+    "description": "EMA(9/21) + RSI(21, 30/70)",
+    "avg_return_pct": -1.34,
+    "avg_max_drawdown_pct": 3.09,
+    "avg_win_rate_pct": 2.5,
+    "avg_trades": 0.1,
+    "score": -52.13
+  },
+  {
+    "rank": 85,
+    "name": "EMA_8_34_RSI_21_30_70",
+    "description": "EMA(8/34) + RSI(21, 30/70)",
+    "avg_return_pct": -1.34,
+    "avg_max_drawdown_pct": 3.09,
+    "avg_win_rate_pct": 2.5,
+    "avg_trades": 0.1,
+    "score": -52.13
+  },
+  {
+    "rank": 86,
+    "name": "EMA_9_21_RSI_21_30_70_MACD_12_26_9",
+    "description": "EMA(9/21) + RSI(21, 30/70) + MACD(12/26/9)",
+    "avg_return_pct": -1.34,
+    "avg_max_drawdown_pct": 3.09,
+    "avg_win_rate_pct": 2.5,
+    "avg_trades": 0.1,
+    "score": -52.13
+  },
+  {
+    "rank": 87,
+    "name": "EMA_9_21_RSI_21_30_70_MACD_8_21_5",
+    "description": "EMA(9/21) + RSI(21, 30/70) + MACD(8/21/5)",
+    "avg_return_pct": -1.34,
+    "avg_max_drawdown_pct": 3.09,
+    "avg_win_rate_pct": 2.5,
+    "avg_trades": 0.1,
+    "score": -52.13
+  },
+  {
+    "rank": 88,
+    "name": "EMA_9_21_RSI_21_30_70_MACD_5_13_8",
+    "description": "EMA(9/21) + RSI(21, 30/70) + MACD(5/13/8)",
+    "avg_return_pct": -1.34,
+    "avg_max_drawdown_pct": 3.09,
+    "avg_win_rate_pct": 2.5,
+    "avg_trades": 0.1,
+    "score": -52.13
+  },
+  {
+    "rank": 89,
+    "name": "EMA_8_34_RSI_21_30_70_MACD_12_26_9",
+    "description": "EMA(8/34) + RSI(21, 30/70) + MACD(12/26/9)",
+    "avg_return_pct": -1.34,
+    "avg_max_drawdown_pct": 3.09,
+    "avg_win_rate_pct": 2.5,
+    "avg_trades": 0.1,
+    "score": -52.13
+  },
+  {
+    "rank": 90,
+    "name": "EMA_8_34_RSI_21_30_70_MACD_8_21_5",
+    "description": "EMA(8/34) + RSI(21, 30/70) + MACD(8/21/5)",
+    "avg_return_pct": -1.34,
+    "avg_max_drawdown_pct": 3.09,
+    "avg_win_rate_pct": 2.5,
+    "avg_trades": 0.1,
+    "score": -52.13
+  },
+  {
+    "rank": 91,
+    "name": "EMA_8_34_RSI_21_30_70_MACD_5_13_8",
+    "description": "EMA(8/34) + RSI(21, 30/70) + MACD(5/13/8)",
+    "avg_return_pct": -1.34,
+    "avg_max_drawdown_pct": 3.09,
+    "avg_win_rate_pct": 2.5,
+    "avg_trades": 0.1,
+    "score": -52.13
+  },
+  {
+    "rank": 92,
+    "name": "EMA_9_21_MACD_8_21_5",
+    "description": "EMA(9/21) + MACD(8/21/5)",
+    "avg_return_pct": -3.8,
+    "avg_max_drawdown_pct": 19.74,
+    "avg_win_rate_pct": 37.5,
+    "avg_trades": 1.9,
+    "score": -52.42
+  },
+  {
+    "rank": 93,
+    "name": "EMA_12_26_MACD_12_26_9",
+    "description": "EMA(12/26) + MACD(12/26/9)",
+    "avg_return_pct": -3.67,
+    "avg_max_drawdown_pct": 19.76,
+    "avg_win_rate_pct": 36.46,
+    "avg_trades": 1.8,
+    "score": -52.61
+  },
+  {
+    "rank": 94,
+    "name": "EMA_9_21_MACD_5_13_8",
+    "description": "EMA(9/21) + MACD(5/13/8)",
+    "avg_return_pct": -3.54,
+    "avg_max_drawdown_pct": 19.53,
+    "avg_win_rate_pct": 33.54,
+    "avg_trades": 1.8,
+    "score": -53.24
+  },
+  {
+    "rank": 95,
+    "name": "EMA_9_21",
+    "description": "EMA(9/21)",
+    "avg_return_pct": -6.04,
+    "avg_max_drawdown_pct": 15.72,
+    "avg_win_rate_pct": 30.98,
+    "avg_trades": 7.8,
+    "score": -54.61
+  },
+  {
+    "rank": 96,
+    "name": "EMA_9_21_MACD_12_26_9",
+    "description": "EMA(9/21) + MACD(12/26/9)",
+    "avg_return_pct": -5.18,
+    "avg_max_drawdown_pct": 19.98,
+    "avg_win_rate_pct": 32.79,
+    "avg_trades": 2.1,
+    "score": -55.33
+  },
+  {
+    "rank": 97,
+    "name": "EMA_8_34",
+    "description": "EMA(8/34)",
+    "avg_return_pct": -7.16,
+    "avg_max_drawdown_pct": 16.4,
+    "avg_win_rate_pct": 27.72,
+    "avg_trades": 7.2,
+    "score": -57.04
+  },
+  {
+    "rank": 98,
+    "name": "EMA_12_26",
+    "description": "EMA(12/26)",
+    "avg_return_pct": -8.31,
+    "avg_max_drawdown_pct": 17.37,
+    "avg_win_rate_pct": 28.52,
+    "avg_trades": 6.9,
+    "score": -58.44
+  },
+  {
+    "rank": 99,
+    "name": "EMA_20_50",
+    "description": "EMA(20/50)",
+    "avg_return_pct": -10.21,
+    "avg_max_drawdown_pct": 17.86,
+    "avg_win_rate_pct": 28.14,
+    "avg_trades": 4.6,
+    "score": -60.7
+  }
+]
